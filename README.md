@@ -1,4 +1,4 @@
-### boas vindas ao meu perfil 
+### boas vindas ao meu perfil❤️
 
 meu nome e daiane
 
@@ -9,3 +9,7 @@ meu nome e daiane
 
 
  
+
+
+
+![](https://media1.tenor.com/m/ncDzEnPbEw4AAAAC/disney-ariel.gif)
