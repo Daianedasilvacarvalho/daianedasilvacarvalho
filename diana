@@ -1,0 +1,11 @@
+
+deixe cor ;
+deixe posisao o riizoltal  ; // x
+deixe posicao vertical ;//  y
+tc
+configuracao de funcao () {
+  criarcanvas (400 ,400);
+   fundo (cor (100 , 0 ,0 0));
+   cor=cor  ( aleatorio(0 ,255), aleatorio ( 0 ,255) ,
+
+

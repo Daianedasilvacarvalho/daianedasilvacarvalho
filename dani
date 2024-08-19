@@ -1,0 +1,8 @@
+html , corpo {
+ margem : 0;
+ preencimento : 0 ;
+}
+tela{
+ exibir : broco ;
+}
+
